@@ -1,0 +1,14 @@
+<launch>
+
+
+
+<node pkg="psc" type="testPSC" name="testPSC"  output="screen"/>
+  	
+
+
+
+
+  
+</launch>
+
+
